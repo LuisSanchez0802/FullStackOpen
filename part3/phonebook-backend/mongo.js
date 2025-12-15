@@ -17,7 +17,11 @@ mongoose.set('strictQuery', false)
 mongoose.connect(url, { family: 4 }) // first argument takes the connection string and the second is an options object where we specify to use IPv4
 
 const personSchema = new mongoose.Schema({
-    name: String,
+    name: {
+        type: String,
+        minLength: 3,
+        required: true
+    },
     number: String,
 })
 
