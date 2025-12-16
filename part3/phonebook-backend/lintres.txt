@@ -1,0 +1,290 @@
+
+> phonebook-backend@1.0.0 lint
+> eslint .
+
+
+/Users/luissanchez/Nexelium/Courses/FullStackOpen/part3/phonebook-backend/assets/index-CHS39it8.js
+   1:21     error  'document' is not defined                                                  no-undef
+   1:128    error  'document' is not defined                                                  no-undef
+   1:192    error  'MutationObserver' is not defined                                          no-undef
+   1:344    error  'document' is not defined                                                  no-undef
+   9:865    error  Expected '!==' and instead saw '!='                                        eqeqeq
+   9:1518   error  Expected '!==' and instead saw '!='                                        eqeqeq
+   9:1611   error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   9:2261   error  Expected '!==' and instead saw '!='                                        eqeqeq
+   9:2578   error  Expected '!==' and instead saw '!='                                        eqeqeq
+   9:2653   error  Expected '!==' and instead saw '!='                                        eqeqeq
+   9:3287   error  Expected '===' and instead saw '=='                                        eqeqeq
+   9:4417   error  Expected '===' and instead saw '=='                                        eqeqeq
+   9:4577   error  Expected '!==' and instead saw '!='                                        eqeqeq
+   9:4744   error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  17:415    error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  33:531    error  'window' is not defined                                                    no-undef
+  33:559    error  'window' is not defined                                                    no-undef
+  33:943    error  Unexpected combined character in character class                           no-misleading-character-class
+  33:3025   error  Unnecessary escape character: \-                                           no-useless-escape
+  33:4894   error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  37:201    error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  37:531    error  Expected '===' and instead saw '=='                                        eqeqeq
+  37:1209   error  Empty block statement                                                      no-empty
+  37:2384   error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  37:3073   error  'document' is not defined                                                  no-undef
+  37:3357   error  Expected '===' and instead saw '=='                                        eqeqeq
+  37:3393   error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:3439   error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:3565   error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:3579   error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:3618   error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:3703   error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:3752   error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:3875   error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  37:3916   error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  37:3989   error  Expected '===' and instead saw '=='                                        eqeqeq
+  37:4013   error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:4083   error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  37:4110   error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  37:4467   error  Expected '===' and instead saw '=='                                        eqeqeq
+  37:4701   error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  37:5026   error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:5180   error  Expected '===' and instead saw '=='                                        eqeqeq
+  37:5222   error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:5234   error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:5315   error  Expected '===' and instead saw '=='                                        eqeqeq
+  37:5430   error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:5485   error  Expected '===' and instead saw '=='                                        eqeqeq
+  37:5534   error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:5858   error  Expected '===' and instead saw '=='                                        eqeqeq
+  37:6042   error  'MSApp' is not defined                                                     no-undef
+  37:6090   error  'MSApp' is not defined                                                     no-undef
+  37:6266   error  'document' is not defined                                                  no-undef
+  37:7401   error  Expected '===' and instead saw '=='                                        eqeqeq
+  37:7475   error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  37:7568   error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  37:7880   error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:7913   error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:7971   error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:7992   error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:8135   error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:8517   error  'window' is not defined                                                    no-undef
+  37:8657   error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  37:9680   error  Expected to return a value in method 'get'                                 getter-return
+  37:9705   error  'window' is not defined                                                    no-undef
+  37:9743   error  'window' is not defined                                                    no-undef
+  37:9814   error  'r' is defined but never used                                              no-unused-vars
+  37:9816   error  'l' is defined but never used                                              no-unused-vars
+  37:9818   error  'o' is defined but never used                                              no-unused-vars
+  37:9820   error  'a' is defined but never used                                              no-unused-vars
+  37:9822   error  'd' is defined but never used                                              no-unused-vars
+  37:9824   error  'p' is defined but never used                                              no-unused-vars
+  37:9999   error  'e' is defined but never used                                              no-unused-vars
+  37:10001  error  't' is defined but never used                                              no-unused-vars
+  37:10003  error  'n' is defined but never used                                              no-unused-vars
+  37:10005  error  'r' is defined but never used                                              no-unused-vars
+  37:10007  error  'l' is defined but never used                                              no-unused-vars
+  37:10009  error  'o' is defined but never used                                              no-unused-vars
+  37:10011  error  'a' is defined but never used                                              no-unused-vars
+  37:10013  error  'd' is defined but never used                                              no-unused-vars
+  37:10015  error  'p' is defined but never used                                              no-unused-vars
+  37:10067  error  'e' is defined but never used                                              no-unused-vars
+  37:10069  error  't' is defined but never used                                              no-unused-vars
+  37:10071  error  'n' is defined but never used                                              no-unused-vars
+  37:10073  error  'r' is defined but never used                                              no-unused-vars
+  37:10075  error  'l' is defined but never used                                              no-unused-vars
+  37:10077  error  'o' is defined but never used                                              no-unused-vars
+  37:10079  error  'a' is defined but never used                                              no-unused-vars
+  37:10081  error  'd' is defined but never used                                              no-unused-vars
+  37:10083  error  'p' is defined but never used                                              no-unused-vars
+  37:11912  error  Empty block statement                                                      no-empty
+  37:19826  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  37:19924  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:20170  error  Invalid typeof comparison value                                            valid-typeof
+  37:20345  error  Invalid typeof comparison value                                            valid-typeof
+  37:21389  error  'window' is not defined                                                    no-undef
+  37:22233  error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  37:23487  error  'window' is not defined                                                    no-undef
+  37:23522  error  'document' is not defined                                                  no-undef
+  37:23536  error  'document' is not defined                                                  no-undef
+  37:23583  error  'window' is not defined                                                    no-undef
+  37:25055  error  'document' is not defined                                                  no-undef
+  37:25079  error  'document' is not defined                                                  no-undef
+  37:25206  error  'document' is not defined                                                  no-undef
+  37:25231  error  'document' is not defined                                                  no-undef
+  37:26587  error  'window' is not defined                                                    no-undef
+  37:27286  error  'document' is not defined                                                  no-undef
+  37:27312  error  'window' is not defined                                                    no-undef
+  37:27788  error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  37:28027  error  'document' is not defined                                                  no-undef
+  37:28041  error  'document' is not defined                                                  no-undef
+  37:28181  error  Expected '===' and instead saw '=='                                        eqeqeq
+  37:28333  error  'window' is not defined                                                    no-undef
+  37:28941  error  'document' is not defined                                                  no-undef
+  37:28996  error  'window' is not defined                                                    no-undef
+  37:29133  error  'window' is not defined                                                    no-undef
+  37:29263  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  37:33362  error  Expected a 'break' statement before 'case'                                 no-fallthrough
+  37:33549  error  Expected a 'break' statement before 'case'                                 no-fallthrough
+  37:34364  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:34673  error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  37:34722  error  'window' is not defined                                                    no-undef
+  37:35016  error  Expected '===' and instead saw '=='                                        eqeqeq
+  37:35034  error  Expected '===' and instead saw '=='                                        eqeqeq
+  37:35477  error  'window' is not defined                                                    no-undef
+  37:35874  error  'window' is not defined                                                    no-undef
+  37:36126  error  Expected a 'break' statement before 'case'                                 no-fallthrough
+  37:37070  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:37110  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:37415  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:37460  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  37:37564  error  Unexpected control character(s) in regular expression: \x00                no-control-regex
+  38:344    error  Expected '!==' and instead saw '!='                                        eqeqeq
+  38:915    error  Expected '!==' and instead saw '!='                                        eqeqeq
+  38:1513   error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  38:1613   error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  38:2459   error  Expected '!==' and instead saw '!='                                        eqeqeq
+  38:9693   error  Expected '===' and instead saw '=='                                        eqeqeq
+  38:14792  error  Expected a 'break' statement before 'case'                                 no-fallthrough
+  38:14855  error  Expected '===' and instead saw '=='                                        eqeqeq
+  38:15251  error  Unexpected constant condition                                              no-constant-condition
+  38:15846  error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  38:21124  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  38:21212  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  38:22460  error  Empty block statement                                                      no-empty
+  38:22469  error  Empty block statement                                                      no-empty
+  38:23268  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  38:25754  error  Expected '===' and instead saw '=='                                        eqeqeq
+  38:25870  error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  38:25999  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  38:26175  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  38:26336  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  38:26736  error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  38:26739  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:4013   error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  40:5148   error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  40:13028  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:13049  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:13072  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:13119  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:13300  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:13381  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:13402  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:13430  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:13439  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:13482  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:13506  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:13558  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:13725  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:13914  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:13934  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:15360  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:16116  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:16396  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:16416  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:16844  error  Unnecessary escape character: \/                                           no-useless-escape
+  40:17732  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:17834  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:18042  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:18061  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:18101  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:18220  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:18321  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:18366  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:18699  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:22824  error  'window' is not defined                                                    no-undef
+  40:25623  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:26145  error  Empty block statement                                                      no-empty
+  40:26180  error  Expected a 'break' statement before 'case'                                 no-fallthrough
+  40:28231  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:28388  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:28732  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:28796  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:30269  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:30279  error  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  40:31259  error  't' is defined but never used                                              no-unused-vars
+  40:31261  error  'n' is defined but never used                                              no-unused-vars
+  40:31288  error  't' is defined but never used                                              no-unused-vars
+  40:31290  error  'n' is defined but never used                                              no-unused-vars
+  40:33997  error  'window' is not defined                                                    no-undef
+  40:34426  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:35055  error  Unexpected constant condition                                              no-constant-condition
+  40:37732  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:39622  error  Unexpected constant condition                                              no-constant-condition
+  40:39920  error  Unexpected constant condition                                              no-constant-condition
+  40:43005  error  Empty block statement                                                      no-empty
+  40:48597  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:49814  error  Expected '===' and instead saw '=='                                        eqeqeq
+  40:51178  error  Expected '===' and instead saw '=='                                        eqeqeq
+  40:52392  error  'reportError' is not defined                                               no-undef
+  40:53475  error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  40:54558  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:54852  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:54886  error  'zu' is a function                                                         no-func-assign
+  40:54892  error  'Fu' is a function                                                         no-func-assign
+  40:55816  error  '__REACT_DEVTOOLS_GLOBAL_HOOK__' is not defined                            no-undef
+  40:55915  error  Empty block statement                                                      no-empty
+  40:56216  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:56493  error  Expected '===' and instead saw '=='                                        eqeqeq
+  40:56907  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:56958  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:57263  error  Expected '===' and instead saw '=='                                        eqeqeq
+  40:57765  error  Expected '===' and instead saw '=='                                        eqeqeq
+  40:58008  error  '__REACT_DEVTOOLS_GLOBAL_HOOK__' is not defined                            no-undef
+  40:58066  error  '__REACT_DEVTOOLS_GLOBAL_HOOK__' is not defined                            no-undef
+  40:61311  error  'self' is not defined                                                      no-undef
+  40:61334  error  'window' is not defined                                                    no-undef
+  40:62038  error  Expected '===' and instead saw '=='                                        eqeqeq
+  40:63492  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:64301  error  Expected '!==' and instead saw '!='                                        eqeqeq
+  40:66246  error  Expected '===' and instead saw '=='                                        eqeqeq
+  40:66302  error  Expected '===' and instead saw '=='                                        eqeqeq
+  40:70010  error  'self' is not defined                                                      no-undef
+  40:70026  error  'WorkerGlobalScope' is not defined                                         no-undef
+  40:70052  error  'self' is not defined                                                      no-undef
+  40:70091  error  'window' is not defined                                                    no-undef
+  41:312    error  Expected '===' and instead saw '=='                                        eqeqeq
+  41:445    error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  41:1583   error  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  41:1643   error  Expected '!==' and instead saw '!='                                        eqeqeq
+  41:2675   error  Expected '!==' and instead saw '!='                                        eqeqeq
+  42:2122   error  Expected '!==' and instead saw '!='                                        eqeqeq
+  42:2190   error  Expected '!==' and instead saw '!='                                        eqeqeq
+  42:2845   error  'document' is not defined                                                  no-undef
+  42:2926   error  'document' is not defined                                                  no-undef
+  42:3303   error  Expected '===' and instead saw '=='                                        eqeqeq
+  42:5587   error  'XMLHttpRequest' is not defined                                            no-undef
+  42:9577   error  Expected '===' and instead saw '=='                                        eqeqeq
+  42:11855  error  Empty block statement                                                      no-empty
+  45:21     error  Empty block statement                                                      no-empty
+  45:350    error  Expected '!==' and instead saw '!='                                        eqeqeq
+  45:5187   error  'bh' is assigned a value but never used                                    no-unused-vars
+  45:5201   error  'em' is assigned a value but never used                                    no-unused-vars
+  45:5218   error  'tm' is assigned a value but never used                                    no-unused-vars
+  45:5230   error  'nm' is assigned a value but never used                                    no-unused-vars
+  45:5245   error  'rm' is assigned a value but never used                                    no-unused-vars
+  45:5256   error  'lm' is assigned a value but never used                                    no-unused-vars
+  45:5263   error  'om' is assigned a value but never used                                    no-unused-vars
+  45:5273   error  'im' is assigned a value but never used                                    no-unused-vars
+  45:5289   error  'um' is assigned a value but never used                                    no-unused-vars
+  45:5299   error  'sm' is assigned a value but never used                                    no-unused-vars
+  45:5313   error  'am' is assigned a value but never used                                    no-unused-vars
+  45:5329   error  'cm' is assigned a value but never used                                    no-unused-vars
+  45:5347   error  'fm' is assigned a value but never used                                    no-unused-vars
+  45:5361   error  'dm' is assigned a value but never used                                    no-unused-vars
+  45:5375   error  'pm' is assigned a value but never used                                    no-unused-vars
+  45:5390   error  'hm' is assigned a value but never used                                    no-unused-vars
+  45:6063   error  'window' is not defined                                                    no-undef
+  45:6567   error  'window' is not defined                                                    no-undef
+  45:7031   error  'document' is not defined                                                  no-undef
+
+/Users/luissanchez/Nexelium/Courses/FullStackOpen/part3/phonebook-backend/index.js
+  61:7  error  'generateId' is assigned a value but never used  no-unused-vars
+
+/Users/luissanchez/Nexelium/Courses/FullStackOpen/part3/phonebook-backend/models.js/person.js
+   4:7   error  'nameArg' is assigned a value but never used    no-unused-vars
+   5:7   error  'numberArg' is assigned a value but never used  no-unused-vars
+  13:11  error  'result' is defined but never used              no-unused-vars
+
+/Users/luissanchez/Nexelium/Courses/FullStackOpen/part3/phonebook-backend/mongo.js
+  36:24  error  'result' is defined but never used  no-unused-vars
+
+✖ 275 problems (275 errors, 0 warnings)
+
